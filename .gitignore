@@ -1,0 +1,8 @@
+data/
+embeddings*
+dev_data/
+raw_data/
+old_version/
+saved_models
+code_test.py
+*/__pycache__
